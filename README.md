@@ -6,6 +6,9 @@ I am proactive communicative, engaged and curious.
 I'm learning HTML, CSS, Javascript, NODE and ReactJS to become a professional programmer.
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipedoDay&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipedoDay&layout=compact&langs_count=16&theme=dark)
+
 
 <p align="left">
   💌 Se quiser me contatar: ⤵️
