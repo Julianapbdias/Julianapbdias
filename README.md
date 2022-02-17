@@ -7,7 +7,6 @@ I'm learning HTML, CSS, Javascript, NODE and ReactJS to become a professional pr
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianapbdias&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianapbdis&layout=compact&langs_count=16&theme=dark)
 
 
 <p align="left">
