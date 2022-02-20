@@ -2,7 +2,7 @@
 
 <p align="left"> 
   I'm Juliana Bastos, I'm in career transition.
-I am proactive communicative, engaged and curious.
+I am proactive, communicative, engaged and curious.
 I'm learning HTML, CSS, Javascript, NODE, ReactJS and I'm studying Systems Analysis and Development become a professional programmer.
 </p>
 
