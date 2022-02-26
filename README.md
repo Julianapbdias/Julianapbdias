@@ -10,7 +10,7 @@ I'm learning HTML, CSS, Javascript, NODE, ReactJS and I'm studying Systems Analy
 
 
 <p align="left">
-  💌 Se quiser me contatar: ⤵️
+  💌 Se quiser me contatar: 
 </p>
 
 <p align="left">
